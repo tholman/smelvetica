@@ -1,10 +1,10 @@
-## Smelvetica
+# Smelvetica
+
+Smelvetica is Helvetica for your best friends, or your worst enemies.
 
 !["Kerning"](https://imgs.xkcd.com/comics/kerning.png)
 
 *([kerning](https://xkcd.com/1015/), from XKCD)*
-
-Smelvetica is Helvetica for your best friends, or your worst enemies.
  
 ### What is it?
 
