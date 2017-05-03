@@ -12,15 +12,15 @@ Smelvetica is a craftily edited version of the infamously robust Helvetica. The 
 
 Here are some examples:
 
-!["Twitter on Smelvetica"](https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/smelvetica-twitter.png)
+<img src="https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/twitter-smelvetica.png" width="500">
 
 *Twitter on Smelvetica*
 
-!["Quora on Smelvetica"](https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/smelvetica-quora.png)
+<img src="https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/quora-smelvetica.png" width="500">
 
 *Quora on Smelvetica*
 
-!["Tumblr on Smelvetica"](https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/smelvetica-tumblr.png)
+<img src="https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/tumblr-smelvetica.png" width="500">
 
 *Tumblr on Smelvetica*
 
