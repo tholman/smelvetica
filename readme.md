@@ -28,7 +28,7 @@ Here are some examples:
 
 Installing Smelvetica on your system (mac only, at the moment) means that all renderings of Helvetica will use Smelvetica, including websites and applications. The installation is fairly simple!
 
-1. Download Smelvetica from [here].
+1. Download Smelvetica from [here](https://github.com/tholman/smelvetica/raw/master/fonts/Helvetica.dfont).
 
 2. Move it somewhere relatively hidden
 
