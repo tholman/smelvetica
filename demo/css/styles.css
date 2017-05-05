@@ -95,3 +95,30 @@ h2 {
   }
 }
 
+@media (max-width: 900px) {
+
+  h1 {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 560px) {
+
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 18px;
+  }
+
+  p, .demos .smelvetica {
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
