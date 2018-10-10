@@ -1,56 +1,32 @@
-# Smelvetica
-
-Smelvetica is Helvetica for your best friends, or your worst enemies.
+# RIP
 
 !["Kerning"](https://imgs.xkcd.com/comics/kerning.png)
 
 *([kerning](https://xkcd.com/1015/), from XKCD)*
  
-### What is it?
+### What was it?
 
-Smelvetica is a craftily edited version of the infamously robust Helvetica. The kerning has been specially altered, to be ... well, bad, terrible, awful and painful.
+Smelvetica was a craftily edited version of the infamously robust Helvetica. The kerning has been specially altered, to be ... well, bad, terrible, awful and painful.
 
-Here are some examples:
+### What happened to it?
 
-<img src="https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/twitter-smelvetica.png" width="500">
+Dear Tim,
 
-*Twitter on Smelvetica*
+nice to see that we have so much in common. We also create fonts to ensure that our customer’s brands and messages will always be eye-catching and unique. Many people play a role in making sure we can always meet this standard. Distributing licenses for our products (i.e. Helvetica, the grande dame of fonts) is one way we can ensure that all these people make a living.
 
-<img src="https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/quora-smelvetica.png" width="500">
+With this in mind – and because we know you are striving for a more civilized time – we ask that you stop promoting ‘Smelvetica’ and making the font software available to everybody. Next time, just let us know if you have more ideas on how to modernize our classics, we are always open for creative input.
 
-*Quora on Smelvetica*
+---
 
-<img src="https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/tumblr-smelvetica.png" width="500">
+Hey Jennifer,
 
-*Tumblr on Smelvetica*
+Just to confirm, you do see that Smelvetica is a parody and is the opposite of a useful, a modernization or eye-catching?
 
-### How do I install it?
+---
 
-Installing Smelvetica on your system (mac only, at the moment) means that all renderings of Helvetica will use Smelvetica, including websites and applications. The installation is fairly simple!
+Hello Tim,
 
-1. Download Smelvetica from [here](https://github.com/tholman/smelvetica/raw/master/fonts/Helvetica.dfont).
+We are fully aware that you meant for this to be a prank.
 
-2. Move it somewhere relatively hidden
+Nonetheless, there is a trademark and copyright issue at hand here and we have to make sure that Monotype’s intellectual property isn’t weakened. Therefore, we ask you once more that you rename your typeface and refrain from further distribution of the font software in question. We expect that this will be possible within the next few days.
 
-2. Open the file in fontbook (double clicking should do it)
-
-3. Click "install"
-
-!["Click Install"](https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/installx-1.png)
-
-4. The system will say there has been problems with the font during validation (this is Helvetica holding on for dear life). Click the checkbox, and press "install checked"
-
-!["Install Checked"](https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/installx-2.png)
-
-5. That should be it. Watch your target be confused, and frustrated... but ultimately have to live with it. If you see anything like the image below, choose manual resolve. Automatic resolve will put the old Helvetica back in charge.
-
-!["Manual Resolve"](https://s3.amazonaws.com/tholman.com/smelvetica/github-readme-assets/installx-3.png)
-
-### Built by
-License/Acknowledgements
-
-Naturally, these aren't endorsed by... well, anyone.
-
-Copyright (c) 2017 Tim Holman - http://tholman.com
-
-The MIT License
